@@ -1,0 +1,59 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+
+body{
+    height: 100%;
+    background-image: url(./Frame\ 105.jpg);
+    background-repeat: no-repeat;
+    background-position: fixed;
+    
+    
+    
+
+}
+.background h3{
+    color: white;
+    font-size: 64px;
+    font-style: 400;
+    line-height: 69.63px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 180px 70px 10px;
+    
+}
+.background p{
+    color: white;
+    font-size: 20px;
+    font-style: 100;
+    line-height: 28px;
+    font-family:'Times New Roman', Times, serif;
+    padding: 0px 70px 10px;
+    
+}
+.background button{
+    width:130px;
+    height: 48px;
+    border-radius: 8px;
+    background-color: white;
+    color: black;
+    border: none;
+    margin: 10px 70px;
+    
+}
+.amazon{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px 0px;
+}
+.amazon img{
+    margin: 0px 30px;
+}
+.line{
+    background:linear-gradient(to right,rgb(38,128,120),rgb(99,132,105),rgb(186,140,83),rgb(198,117,56));
+    border-radius: 3px;
+    
+}
